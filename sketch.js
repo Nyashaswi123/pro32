@@ -14,7 +14,7 @@ var slingshot;
 function preload() {
   getBackgroundImage();
   // backgroundImg = loadImage("sprites/bg.png");
- getTime();
+   getTime();
 }
 
 
